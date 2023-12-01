@@ -1,2 +1,2 @@
 # Student-Registry-App-Jenkins
-# Jenkins
+# Simple Jenkins app
